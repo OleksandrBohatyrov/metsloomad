@@ -1,0 +1,97 @@
+[33mcommit d901d2b9b9fefad3184e1b91539c7ee2785b3024[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-features[m[33m, [m[1;31morigin/new-features[m[33m)[m
+Reflog: HEAD@{0} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: commit: L-03: Added triangle.py and fixed rectangle perimeter bug
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 10:33:09 2024 +0300
+
+    L-03: Added triangle.py and fixed rectangle perimeter bug
+
+[33mcommit cc9c56ba9c5c4c2e1f24274fb04463c715e72f38[m
+Reflog: HEAD@{1} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: commit: L-03: Added rectangle.py
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 10:30:52 2024 +0300
+
+    L-03: Added rectangle.py
+
+[33mcommit 2976727aeeed2a356537084f315e22c9d1fdf11a[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Reflog: HEAD@{2} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: checkout: moving from master to new-features
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 09:43:47 2024 +0300
+
+    Kangaroo commit
+
+[33mcommit 2976727aeeed2a356537084f315e22c9d1fdf11a[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Reflog: HEAD@{3} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: commit: Kangaroo commit
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 09:43:47 2024 +0300
+
+    Kangaroo commit
+
+[33mcommit e87ce6a77c3a565a039e01b1805bf65f7d686bfe[m
+Reflog: HEAD@{4} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: revert: Revert "python"
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 09:41:14 2024 +0300
+
+    Revert "python"
+    
+    This reverts commit 44af79c89b419f7f00c958345617f39399d4871d.
+
+[33mcommit 44af79c89b419f7f00c958345617f39399d4871d[m
+Reflog: HEAD@{5} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: reset: moving to HEAD
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 09:19:51 2024 +0300
+
+    python
+
+[33mcommit 44af79c89b419f7f00c958345617f39399d4871d[m
+Reflog: HEAD@{6} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: reset: moving to 44af79c89b419f7f00c958345617f39399d4871d
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 09:19:51 2024 +0300
+
+    python
+
+[33mcommit 44af79c89b419f7f00c958345617f39399d4871d[m
+Reflog: HEAD@{7} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: reset: moving to 44af79c89b419f7f00c958345617f39399d4871d
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 09:19:51 2024 +0300
+
+    python
+
+[33mcommit 44af79c89b419f7f00c958345617f39399d4871d[m
+Reflog: HEAD@{8} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: commit: python
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 09:19:51 2024 +0300
+
+    python
+
+[33mcommit 64c9d2e552179a5c4b0a9fc35bf192697f8abb83[m
+Reflog: HEAD@{9} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: commit: Elefant commit
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 08:59:47 2024 +0300
+
+    Elefant commit
+
+[33mcommit d9495807200cb7cdd7f6f38b5d622c84fe226755[m
+Reflog: HEAD@{10} (OleksandrB <alexboggg361@gmail.com>)
+Reflog message: commit: Haha test commit
+Author: OleksandrB <alexboggg361@gmail.com>
+Date:   Mon Apr 22 08:54:14 2024 +0300
+
+    Haha test commit
+
+[33mcommit 69f5c3fee33a23efd51d5cea2e386d08e83f0875[m
+Reflog: HEAD@{11} (Opilane TTHK <opilane@tthk.ee>)
+Reflog message: commit (initial): Initial commit
+Author: Opilane TTHK <opilane@tthk.ee>
+Date:   Mon Apr 22 08:40:37 2024 +0300
+
+    Initial commit

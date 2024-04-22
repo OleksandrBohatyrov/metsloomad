@@ -1,5 +1,5 @@
 def area(a, b):
-____return a * b
+return a * b
 
 def perimeter(a, b):
-____return 2 * (a + b)
+return 2 * (a + b)
